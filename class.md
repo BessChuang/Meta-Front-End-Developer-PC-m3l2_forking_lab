@@ -22,7 +22,7 @@ Version Control
   - [Agustina](https://github.com/AgustinaLezcano) Frontend development
 
 - ### **B**
-  -[Bess] Taiwan Version Control
+  -[Bess] Taiwan Version Control.
 - ### **C**
 
   -[Constance](https://github.com/coco390) Frontend Development

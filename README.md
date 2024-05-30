@@ -18,7 +18,10 @@ This is a repo to the supposed NOT working link of meta, you can fork this repo 
 -Open and edit the class.MD file
 
 -Add your first name
+bess
 
 -Add your location
+taiwan
 
 -Add the name of the certification you are working on
+version control
